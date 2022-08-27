@@ -1,3 +1,5 @@
-import { printHello } from '#Lib/hello.js';
+const testFunction = () => {
+  console.log('testFunction');
+};
 
-printHello();
+testFunction();
